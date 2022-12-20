@@ -4,6 +4,11 @@ public class Main {
 
        CarFeatures XLR= new CarFeatures();
         System.out.println("launch the car");
+        XLR.color="red";
+        XLR.doors="5";
+        XLR.engine=32323;
+        XLR.make=2022;
+
 
 
     }
